@@ -12,7 +12,7 @@
 // after pushing 8 registers) are the same +4 / +0x38.
 //
 // level_rework has this feature too ("Dog (12)", option show_creature_level). Do not run both: they would stack.
-#include "../../common.hpp"
+#include "../common.hpp"
 #include "cubeworld/cubeworld.h"
 
 #include <cstdio>
