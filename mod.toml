@@ -1,0 +1,10 @@
+id = "creature_level_display"
+name = "Creature Level Display"
+version = "1.0.0"
+kyubu = "^1.1"
+sides = ["client"]
+authors = ["ToufouMaster (original), ported"]
+description = "Shows the level of the creature you look at. Do not combine with level_rework."
+
+[native]
+client = "bin/creature_level_display.dll"
